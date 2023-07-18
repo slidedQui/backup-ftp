@@ -1,0 +1,1 @@
+Este proyecto es para realizar el respaldo de una carpeta local a una carpeta de un servidor ftp
